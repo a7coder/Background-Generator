@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right,#2f47a7,#ed5151);
+}
+.center{
+    text-align: center;
+}
+.letter-space{
+    letter-spacing: 20px;
+}
+.letter-space-small{
+    letter-spacing: 10px;
+}
+.upper{
+    text-transform: uppercase;
+}
+h1{
+    font-size: 40px;
+color: #211c1c;}
+h2{
+    font-size: 30px;
+    color: #211c1c;
+}
