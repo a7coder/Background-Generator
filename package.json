@@ -1,0 +1,19 @@
+{
+  "name": "background-genrator",
+  "version": "1.0.0",
+  "description": "It generates background of different color",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/a7coder/Background-Generator.git"
+  },
+  "author": "a7coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a7coder/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/a7coder/Background-Generator#readme"
+}
